@@ -1,3 +1,1 @@
-# hello-world
-
-Just for test.
+你好~
